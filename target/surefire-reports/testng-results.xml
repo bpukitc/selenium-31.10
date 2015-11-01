@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Tests" duration-ms="67471" started-at="2015-11-01T14:30:03Z" finished-at="2015-11-01T14:31:10Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="67471" started-at="2015-11-01T14:30:03Z" finished-at="2015-11-01T14:31:10Z">
+      <class name="ru.st.selenium.Avatar">
+        <test-method status="PASS" signature="init()[pri:0, instance:ru.st.selenium.Avatar@39ba5a14]" name="init" is-config="true" duration-ms="8883" started-at="2015-11-01T16:30:03Z" finished-at="2015-11-01T16:30:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="testUntitled4()[pri:0, instance:ru.st.selenium.Avatar@39ba5a14]" name="testUntitled4" duration-ms="58573" started-at="2015-11-01T16:30:11Z" finished-at="2015-11-01T16:31:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUntitled4 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:ru.st.selenium.Avatar@39ba5a14]" name="tearDown" is-config="true" duration-ms="1934" started-at="2015-11-01T16:31:10Z" finished-at="2015-11-01T16:31:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ru.st.selenium.Avatar -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Tests -->
+</testng-results>
